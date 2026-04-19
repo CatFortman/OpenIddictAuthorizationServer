@@ -4,8 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-_3._1._2_AuthorizationServer-5949751d-751f-4fa1-90f3-d8680cb70631</UserSecretsId>
-    <RootNamespace>_3._1._2_AuthorizationServer</RootNamespace>
+    <UserSecretsId>aspnet-AuthorizationServer-5949751d-751f-4fa1-90f3-d8680cb70631</UserSecretsId>
+    <RootNamespace>AuthorizationServer</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
