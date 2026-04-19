@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using OpenIddict.Abstractions;
-using _3._1._2_AuthorizationServer.Data;
+using AuthorizationServer.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

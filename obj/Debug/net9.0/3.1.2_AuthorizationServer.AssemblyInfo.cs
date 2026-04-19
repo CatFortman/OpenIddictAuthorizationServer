@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-_3._1._2_AuthorizationServer-5949751d-751f-4fa1-90f3-d8680cb70631")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-AuthorizationServer-5949751d-751f-4fa1-90f3-d8680cb70631")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("3.1.2_AuthorizationServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

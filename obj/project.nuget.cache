@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yEmvqhhaUWw=",
+  "dgSpecHash": "2FR4LIKMOAs=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AZ204DevelopingSolutionsForMicrosoftAzure\\Skills\\3.1_Authentication_And_Authorization\\3.1.2_AuthorizationServer\\3.1.2_AuthorizationServer.csproj",
+  "projectFilePath": "C:\\Projects\\OpenIddictAuthorizationServer\\AuthorizationServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.10\\microsoft.aspnetcore.cryptography.internal.9.0.10.nupkg.sha512",

@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace _3._1._2_AuthorizationServer.Data.Migrations
+namespace AuthorizationServer.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

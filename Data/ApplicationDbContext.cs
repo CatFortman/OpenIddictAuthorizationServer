@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using OpenIddict.EntityFrameworkCore.Models;
 
-namespace _3._1._2_AuthorizationServer.Data;
+namespace AuthorizationServer.Data;
 
 public class ApplicationDbContext : IdentityDbContext
 {

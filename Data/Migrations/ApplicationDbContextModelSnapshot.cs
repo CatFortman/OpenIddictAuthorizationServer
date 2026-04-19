@@ -3,11 +3,11 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using _3._1._2_AuthorizationServer.Data;
+using AuthorizationServer.Data;
 
 #nullable disable
 
-namespace _3._1._2_AuthorizationServer.Data.Migrations
+namespace AuthorizationServer.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot

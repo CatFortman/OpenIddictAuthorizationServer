@@ -1,4 +1,4 @@
-namespace _3._1._2_AuthorizationServer.Models;
+namespace AuthorizationServer.Models;
 
 public class ErrorViewModel
 {

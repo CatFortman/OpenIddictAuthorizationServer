@@ -5869,11 +5869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AZ204DevelopingSolutionsForMicrosoftAzure\\Skills\\3.1_Authentication_And_Authorization\\3.1.2_AuthorizationServer\\3.1.2_AuthorizationServer.csproj",
-      "projectName": "3.1.2_AuthorizationServer",
-      "projectPath": "C:\\Projects\\AZ204DevelopingSolutionsForMicrosoftAzure\\Skills\\3.1_Authentication_And_Authorization\\3.1.2_AuthorizationServer\\3.1.2_AuthorizationServer.csproj",
+      "projectUniqueName": "C:\\Projects\\OpenIddictAuthorizationServer\\AuthorizationServer.csproj",
+      "projectName": "AuthorizationServer",
+      "projectPath": "C:\\Projects\\OpenIddictAuthorizationServer\\AuthorizationServer.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AZ204DevelopingSolutionsForMicrosoftAzure\\Skills\\3.1_Authentication_And_Authorization\\3.1.2_AuthorizationServer\\obj\\",
+      "outputPath": "C:\\Projects\\OpenIddictAuthorizationServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

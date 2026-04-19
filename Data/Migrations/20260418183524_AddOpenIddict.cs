@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace _3._1._2_AuthorizationServer.Data.Migrations
+namespace AuthorizationServer.Data.Migrations
 {
     /// <inheritdoc />
     public partial class AddOpenIddict : Migration

@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using _3._1._2_AuthorizationServer.Models;
+using AuthorizationServer.Models;
 
-namespace _3._1._2_AuthorizationServer.Controllers;
+namespace AuthorizationServer.Controllers;
 
 public class HomeController : Controller
 {
